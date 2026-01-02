@@ -41,11 +41,11 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>
+          <p> Published in
             <i>{{ post.venue }}</i> ({{ post.date | date: "%Y" }})
-            {% if post.cas %}
+            {% if post.rank %}
               <span style="margin-left: 0.5em; font-weight: 600;">
-                — {{ post.cas }}
+                — {{ post.rank }}
               </span>
             {% endif %}
           </p>
