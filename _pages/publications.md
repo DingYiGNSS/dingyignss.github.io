@@ -7,7 +7,7 @@ author_profile: true
 
 {% if site.author.googlescholar or site.author.researchgate %}
   <div class="wordwrap">
-    You can also find my publications on
+    More publications can be found on my
     {% if site.author.googlescholar %}
       <a href="{{ site.author.googlescholar }}">Google Scholar</a>
     {% endif %}
