@@ -12,7 +12,7 @@ link_text: "Elsevier"
 ---
 
 <figure style="text-align: center;">
-  <img src="staticmi81.png"
+  <img src="staticcomparisonall_ds_12.png"
        alt="Horizontal performance comparison"
        style="width: 60%; max-width: 600px;">
   <figcaption>
