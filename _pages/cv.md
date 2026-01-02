@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
   **Jun 2019 – Jun 2024**  
   **Lassonde School of Engineering, York University, Canada**  
@@ -28,7 +28,7 @@ Education
 
 ---
 
-Work Experience
+## Work Experience
 ======
   **Jun 2019 – May 2024**  
   **Lassonde School of Engineering, York University, Canada**  
@@ -44,28 +44,29 @@ Work Experience
 
 ---
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+## Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Honors
+## Honors
 ======
-  * **2023** — Institute of Navigation (ION) Conference **Student Paper Award Winner**
-  * **2024** — Reviewer for *GPS Solutions*
-  * **2024** — Member, International Association of Geodesy (IAG) Working Groups **4.2** and **4.4.3**
+  * Editorial Board Member of the *Journal of Global Positioning Systems (JoGPS)*
+  * Reviewer for *GPS Solutions*, *Advances in Space Research*, *NAVIGATION: Journal of the Institute of Navigation*, etc.
+  * Member, International Association of Geodesy (IAG) Working Groups **4.2** and **4.4.3**
+  * Institute of Navigation (ION) GNSS+ 2023 Conference **Student Paper Award Winner**
 
 ---
