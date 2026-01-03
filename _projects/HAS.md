@@ -4,8 +4,7 @@ duration: 2020 – 2023
 role: HAS Algorithm Developer / Project Lead
 collaboration: York University × EUSPA 
 collection: projects
-excerpt: "GNSS PPP performance analysis of the developed Galileo High Accuracy Service (HAS) and pilot research results <br/><img src='HAS.png', style='width:50%;'>"
----
+excerpt: "GNSS PPP performance analysis of the developed Galileo High Accuracy Service (HAS) and pilot research results <br/><img src='HAS.png' style='width:50%; max-width:600px;'>"
 
 🔗 **Project website:**  
 [https://giscad-ov.eu/Partners/PrtIorku.aspx](https://giscad-ov.eu/Partners/PrtIorku.aspx)

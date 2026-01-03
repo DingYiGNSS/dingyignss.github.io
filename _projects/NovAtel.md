@@ -4,7 +4,7 @@ duration: 2025 - 2026
 role: Iono modelling Algorithm Developer / Project Lead
 collaboration: York University × Hexagon | NovAtel
 collection: projects
-excerpt: "GNSS PPP performance analysis of the developed Galileo High Accuracy Service (HAS) and pilot research results <br/><img src='NovAtel.png', style='width:80%;'>"
+excerpt: "GNSS PPP performance analysis of the developed Galileo High Accuracy Service (HAS) and pilot research results <br/><img src='NovAtel.png' style='width:80%; max-width:600px;'>"
 ---
 
 ### Project Overview
