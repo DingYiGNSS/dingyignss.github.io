@@ -4,7 +4,7 @@ duration: 2021 – 2023
 role: GNSS Algorithm Developer / Project Lead
 collaboration: York University × Huawei 
 collection: projects
-excerpt: "Design of core RTK and PPP GNSS+IMU C++ code for smartphone navigation in realistic driving environments <br/><img src='HW.png'>"
+excerpt: "Design of core RTK and PPP GNSS+IMU C++ code for smartphone navigation in realistic driving environments <br/><img src='HW.png' style='width: 500px;'>"
 ---
 
 ### Project Overview
