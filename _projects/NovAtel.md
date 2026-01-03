@@ -4,13 +4,13 @@ duration: 2025 - 2026
 role: Iono modelling Algorithm Developer / Project Lead
 collaboration: York University × Hexagon | NovAtel
 collection: projects
-excerpt: "GNSS PPP performance analysis of the developed Galileo High Accuracy Service (HAS) and pilot research results <br/><img src='NovAtel.png' style='width:80%; max-width:600px;'>"
+excerpt: "GNSS PPP performance analysis of the developed Galileo High Accuracy Service (HAS) and pilot research results <br/><img src='NovAtel.png' style='width:60%;'>"
 ---
 
 ### Project Overview
 This project focuses on the **monitoring and modelling of global and regional ionospheric conditions** to support next-generation **high-precision GNSS positioning services**. The primary objective is to develop **advanced ionospheric modelling techniques** that enable **centimeter-level Precise Point Positioning with Ambiguity Resolution (PPP-AR)** for real-time and near-real-time applications.
 
-The project is conducted in close collaboration with **Hexagon | NovAtel**, leveraging their global GNSS infrastructure and expertise in high-precision positioning systems.
+The project is conducted in close collaboration with **Hexagon NovAtel**, leveraging their global GNSS infrastructure and expertise in high-precision positioning systems.
 
 ---
 
