@@ -1,10 +1,11 @@
 ---
 title: "Galileo Improved Services for Cadastral Augmentation Development On-field Validation (GISCAD-OV) Project"
-duration: 2020 – 2023  
-role: HAS Algorithm Developer / Project Lead
-collaboration: York University × EUSPA 
+duration: "2020 – 2023"
+role: "HAS Algorithm Developer / Project Lead"
+collaboration: "York University × EUSPA"
 collection: projects
 excerpt: "GNSS PPP performance analysis of the developed Galileo High Accuracy Service (HAS) and pilot research results <br/><img src='HAS.png' style='width:50%;'>"
+---
 
 🔗 **Project website:**  
 [https://giscad-ov.eu/Partners/PrtIorku.aspx](https://giscad-ov.eu/Partners/PrtIorku.aspx)
