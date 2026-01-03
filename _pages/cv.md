@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
 
   > 2019 – 2024
@@ -29,7 +29,7 @@ Education
 
 ---
 
-Work Experience
+💼 Work Experience
 =====
   > Jun 2019 – May 2024
   > **Lassonde School of Engineering, York University, Canada**  
@@ -45,19 +45,19 @@ Work Experience
 
 ---
 
-Publications
+📄 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Projects
+🧪 Projects
 ======
   <ul>{% for post in site.projects reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Presentations
+🎤 Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -69,7 +69,7 @@ Presentations
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Honors
+🏆 Honors
 ======
   * Editorial Board Member of the *Journal of Global Positioning Systems (JoGPS)*
   * Reviewer for *GPS Solutions*, *Advances in Space Research*, *NAVIGATION: Journal of the Institute of Navigation*, etc.
