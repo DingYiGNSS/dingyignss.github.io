@@ -43,6 +43,10 @@ redirect_from:
   > **Lassonde School of Engineering, York University, Canada**  
   > **Postdoctoral Fellow**
 
+    > Jan 2026 – now
+  > **School of Geospatial Engineering and Science, Sun Yat-sen University, China**  
+  > **Associate Professor**
+
 ---
 
 📄 Publications
