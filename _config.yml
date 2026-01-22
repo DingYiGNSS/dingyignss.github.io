@@ -12,7 +12,7 @@ title                    : "Ding Yi | 易丁"
 title_separator          : "-"
 name                     : &name "Ding Yi"
 description              : &description "Ph.D., Postdoctoral Fellow in GNSS and Multisensor Navigation"
-url                      : https://dingyignss.github.io/dingyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dingyignss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://dingyignss.github.io"
 
