@@ -22,7 +22,7 @@ I am continuously recruiting motivated **M.Sc. and Ph.D. students** and warmly w
 - Advanced satellite positioning techniques **(PPP/RTK)**
 - GNSS/INS and multi-sensor fusion
 - Low-cost navigation systems **(smartphones)**
-- Vehicle navigation in urban environments
+- Vehicle/UAV navigation in urban environments
 - Robust positioning and estimation methods **(EKF+FGO)**
 - Machine learning enhanced positioning algorithms
 
