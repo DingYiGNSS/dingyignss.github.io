@@ -14,8 +14,8 @@ redirect_from:
 
   > 2019 – 2024
   > **Lassonde School of Engineering, York University, Canada**  
-  > **Ph.D., Department of Earth and Space Science and Engineering**  
-  > Supervisor committee: Prof. Sunil Bisnath, Prof. Jian-Guo Wang, Prof. Spiros Pagiatakis  
+  > **Ph.D., Department of Earth and Space Science and Engineering(ESSE)**  
+  > Supervisor committee: Prof. Sunil Bisnath, Prof. Jian-Guo Wang, and Prof. Spiros Pagiatakis  
 
   > 2016 – 2019
   > **University of Stuttgart, Germany**  
@@ -32,16 +32,20 @@ redirect_from:
 💼 Work Experience
 =====
   > Jun 2019 – May 2024
-  > **Lassonde School of Engineering, York University, Canada**  
+  > **Lassonde School of Engineering ESSE, York University, Canada**  
   > **Teaching Assistant**
 
   > Jul 2024 – Sep 2024
-  > **Lassonde School of Engineering, York University, Canada**  
+  > **Lassonde School of Engineering ESSE, York University, Canada**  
   > **Research Assistant**
 
   > Oct 2024 – Jan 2026
-  > **Lassonde School of Engineering, York University, Canada**  
+  > **Lassonde School of Engineering ESSE, York University, Canada**  
   > **Postdoctoral Fellow**
+
+  > Jan 2026 – now
+  > **Lassonde School of Engineering ESSE, York University, Canada**  
+  > **Adjunct Member**
 
   > Jan 2026 – now
   > **School of Geospatial Engineering and Science, Sun Yat-sen University, China**  
